@@ -24,39 +24,39 @@ class Movie():
 # We need to instantiate the movie objects with titles, posters and trailers.
 
 # A linguist saves the world through language, and also time travel.
-the_arrival = media.Movie("The Arival",
+the_arrival = Movie("The Arival",
                     "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_"
                     "Movie_Poster.jpg",
                     "https://www.youtube.com/watch?v=AMgyWT075KY")
 
 # Giant robots fight giant monsters in the Pacific.
-pacific_rim = media.Movie("Pacific Rim",
+pacific_rim = Movie("Pacific Rim",
                     "https://upload.wikimedia.org/wikipedia/en/f/f3/Pacific_Rim"
                     "_FilmPoster.jpeg",
                     "https://www.youtube.com/watch?v=5guMumPFBag")
 
 # A girl encounters faeries during the Spanish Civil War.
-pans_labyrinth = media.Movie("Pans Labyrinth",
+pans_labyrinth = Movie("Pans Labyrinth",
                        "https://upload.wikimedia.org/wikipedia/en/6/67/Pan%27s_"
                        "Labyrinth.jpg",
                        "https://www.youtube.com/watch?v=EqYiSlkvRuw")
 
 # Normal people seek shelter in a mad scientist's castle after their
 # car broke down.
-rocky_horror = media.Movie("Rocky Horror Picture Show",
+rocky_horror = Movie("Rocky Horror Picture Show",
                      "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Rocky_"
                      "Horror_Picture_Show.jpg",
                      "https://www.youtube.com/watch?v=Pgx1QZFNMz8")
 
 # 120 minutes of chrome high octane awesomeness!
-mad_max = media.Movie("Mad Max: Fury Road",
+mad_max = Movie("Mad Max: Fury Road",
                 "http://www.impawards.com/intl/australia/2015/posters/mad_max_"
                 "fury_road_ver13_xlg.jpg",
                 "https://www.youtube.com/watch?v=hEJnMQG9ev8")
 
 # After being banished from his village a young man must seek
 # the god of the forrest.
-princess_mononoke = media.Movie("Princess Mononoke",
+princess_mononoke = Movie("Princess Mononoke",
                           "https://upload.wikimedia.org/wikipedia/en/2/24/"
                           "Princess_Mononoke_Japanese_Poster_%28Movie%29.jpg",
                           "https://www.youtube.com/watch?v=4OiMOHRDs14")
